@@ -1,0 +1,7 @@
+*.log
+build/
+temp-*
+/.idea
+.idea
+/.idea/
+.idea/
